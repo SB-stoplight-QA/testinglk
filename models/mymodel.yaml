@@ -1,0 +1,9 @@
+title: mymodel
+x-stoplight:
+  id: mwinsys2p01cc
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: nrkvhik9mcvtd
